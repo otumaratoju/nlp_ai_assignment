@@ -1,4 +1,4 @@
 Name: Otumara Toritseju
 Matric Number: 23CG034145
-Live URL of hosted application: 
-GitHub Repository Link: 
+Live URL of hosted application: https://nlp-ai-assignment.onrender.com
+GitHub Repository Link: https://github.com/otumaratoju/nlp_ai_assignment
